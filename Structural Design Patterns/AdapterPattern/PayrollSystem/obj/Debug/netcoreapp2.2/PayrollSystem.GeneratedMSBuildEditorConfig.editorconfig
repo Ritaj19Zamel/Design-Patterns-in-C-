@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PayrollSystem
+build_property.ProjectDir = D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\PayrollSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

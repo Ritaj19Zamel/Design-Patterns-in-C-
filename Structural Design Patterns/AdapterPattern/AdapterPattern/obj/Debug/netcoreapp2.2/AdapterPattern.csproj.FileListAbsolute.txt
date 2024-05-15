@@ -1,0 +1,11 @@
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.deps.json
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.runtimeconfig.json
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.runtimeconfig.dev.json
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.dll
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.pdb
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.csproj.AssemblyReference.cache
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.AssemblyInfoInputs.cache
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.AssemblyInfo.cs
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.dll
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.pdb

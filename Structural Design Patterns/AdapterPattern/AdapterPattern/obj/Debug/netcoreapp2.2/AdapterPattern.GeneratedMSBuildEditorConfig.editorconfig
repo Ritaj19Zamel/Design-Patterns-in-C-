@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AdapterPattern
+build_property.ProjectDir = D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\AdapterPattern\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

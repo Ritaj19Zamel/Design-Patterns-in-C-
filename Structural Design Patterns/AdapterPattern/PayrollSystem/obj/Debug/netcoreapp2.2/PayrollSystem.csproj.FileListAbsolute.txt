@@ -1,0 +1,4 @@
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\PayrollSystem\obj\Debug\netcoreapp2.2\PayrollSystem.csproj.AssemblyReference.cache
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\PayrollSystem\obj\Debug\netcoreapp2.2\PayrollSystem.csproj.CoreCompileInputs.cache
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\PayrollSystem\obj\Debug\netcoreapp2.2\PayrollSystem.AssemblyInfoInputs.cache
+D:\DesignPattern\StructuralDesignPatterns\AdapterPattern\PayrollSystem\obj\Debug\netcoreapp2.2\PayrollSystem.AssemblyInfo.cs
